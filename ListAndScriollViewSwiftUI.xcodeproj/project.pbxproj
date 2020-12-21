@@ -7,23 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		10C5B0C625903C27009AB72D /* ScrollViewHorizontal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10C5B0C525903C27009AB72D /* ScrollViewHorizontal.swift */; };
+		10C5B0C725903C27009AB72D /* ScrollViewHorizontal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10C5B0C525903C27009AB72D /* ScrollViewHorizontal.swift */; };
 		10F7A366258EEAA500A2CDF5 /* ListAndScriollViewSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10F7A353258EEAA000A2CDF5 /* ListAndScriollViewSwiftUIApp.swift */; };
 		10F7A367258EEAA500A2CDF5 /* ListAndScriollViewSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10F7A353258EEAA000A2CDF5 /* ListAndScriollViewSwiftUIApp.swift */; };
-		10F7A368258EEAA500A2CDF5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10F7A354258EEAA000A2CDF5 /* ContentView.swift */; };
-		10F7A369258EEAA500A2CDF5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10F7A354258EEAA000A2CDF5 /* ContentView.swift */; };
+		10F7A368258EEAA500A2CDF5 /* SimpleListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10F7A354258EEAA000A2CDF5 /* SimpleListView.swift */; };
+		10F7A369258EEAA500A2CDF5 /* SimpleListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10F7A354258EEAA000A2CDF5 /* SimpleListView.swift */; };
 		10F7A36A258EEAA500A2CDF5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 10F7A355258EEAA500A2CDF5 /* Assets.xcassets */; };
 		10F7A36B258EEAA500A2CDF5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 10F7A355258EEAA500A2CDF5 /* Assets.xcassets */; };
+		10F7A377258EEF9F00A2CDF5 /* ListViewMixedRows.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10F7A376258EEF9F00A2CDF5 /* ListViewMixedRows.swift */; };
+		10F7A378258EEF9F00A2CDF5 /* ListViewMixedRows.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10F7A376258EEF9F00A2CDF5 /* ListViewMixedRows.swift */; };
+		10F7A37C258EF8A500A2CDF5 /* ScrollViewWithImages.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10F7A37B258EF8A500A2CDF5 /* ScrollViewWithImages.swift */; };
+		10F7A37D258EF8A500A2CDF5 /* ScrollViewWithImages.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10F7A37B258EF8A500A2CDF5 /* ScrollViewWithImages.swift */; };
+		10F7A381258F37FC00A2CDF5 /* ScrollViewVertical.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10F7A380258F37FC00A2CDF5 /* ScrollViewVertical.swift */; };
+		10F7A382258F37FC00A2CDF5 /* ScrollViewVertical.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10F7A380258F37FC00A2CDF5 /* ScrollViewVertical.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		10C5B0C525903C27009AB72D /* ScrollViewHorizontal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewHorizontal.swift; sourceTree = "<group>"; };
 		10F7A353258EEAA000A2CDF5 /* ListAndScriollViewSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListAndScriollViewSwiftUIApp.swift; sourceTree = "<group>"; };
-		10F7A354258EEAA000A2CDF5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		10F7A354258EEAA000A2CDF5 /* SimpleListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleListView.swift; sourceTree = "<group>"; };
 		10F7A355258EEAA500A2CDF5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		10F7A35A258EEAA500A2CDF5 /* ListAndScriollViewSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ListAndScriollViewSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		10F7A35D258EEAA500A2CDF5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		10F7A362258EEAA500A2CDF5 /* ListAndScriollViewSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ListAndScriollViewSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		10F7A364258EEAA500A2CDF5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		10F7A365258EEAA500A2CDF5 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		10F7A376258EEF9F00A2CDF5 /* ListViewMixedRows.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewMixedRows.swift; sourceTree = "<group>"; };
+		10F7A37B258EF8A500A2CDF5 /* ScrollViewWithImages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewWithImages.swift; sourceTree = "<group>"; };
+		10F7A380258F37FC00A2CDF5 /* ScrollViewVertical.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewVertical.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +70,11 @@
 			isa = PBXGroup;
 			children = (
 				10F7A353258EEAA000A2CDF5 /* ListAndScriollViewSwiftUIApp.swift */,
-				10F7A354258EEAA000A2CDF5 /* ContentView.swift */,
+				10F7A354258EEAA000A2CDF5 /* SimpleListView.swift */,
+				10F7A376258EEF9F00A2CDF5 /* ListViewMixedRows.swift */,
+				10F7A37B258EF8A500A2CDF5 /* ScrollViewWithImages.swift */,
+				10F7A380258F37FC00A2CDF5 /* ScrollViewVertical.swift */,
+				10C5B0C525903C27009AB72D /* ScrollViewHorizontal.swift */,
 				10F7A355258EEAA500A2CDF5 /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -187,7 +203,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				10F7A368258EEAA500A2CDF5 /* ContentView.swift in Sources */,
+				10F7A368258EEAA500A2CDF5 /* SimpleListView.swift in Sources */,
+				10C5B0C625903C27009AB72D /* ScrollViewHorizontal.swift in Sources */,
+				10F7A381258F37FC00A2CDF5 /* ScrollViewVertical.swift in Sources */,
+				10F7A37C258EF8A500A2CDF5 /* ScrollViewWithImages.swift in Sources */,
+				10F7A377258EEF9F00A2CDF5 /* ListViewMixedRows.swift in Sources */,
 				10F7A366258EEAA500A2CDF5 /* ListAndScriollViewSwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -196,7 +216,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				10F7A369258EEAA500A2CDF5 /* ContentView.swift in Sources */,
+				10F7A369258EEAA500A2CDF5 /* SimpleListView.swift in Sources */,
+				10C5B0C725903C27009AB72D /* ScrollViewHorizontal.swift in Sources */,
+				10F7A382258F37FC00A2CDF5 /* ScrollViewVertical.swift in Sources */,
+				10F7A37D258EF8A500A2CDF5 /* ScrollViewWithImages.swift in Sources */,
+				10F7A378258EEF9F00A2CDF5 /* ListViewMixedRows.swift in Sources */,
 				10F7A367258EEAA500A2CDF5 /* ListAndScriollViewSwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

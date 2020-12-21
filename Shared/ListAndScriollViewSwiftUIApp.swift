@@ -9,9 +9,16 @@ import SwiftUI
 
 @main
 struct ListAndScriollViewSwiftUIApp: App {
+    
+    
+
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //SimpleListView()
+            //ScrollViewWithImages()
+            //ScrollViewVertical()
+            ScrollViewHorizontal()
         }
     }
+    
 }
